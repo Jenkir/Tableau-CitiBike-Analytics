@@ -12,7 +12,7 @@ I did an analysis comparing 2018 and 2019. The reason for this is that there wer
 These first was that July 2019 was, according to noaa.gov, the hottest month ever recorded on our planet. The second event was that 2019 was the deadliest 
 year for bike-riding in New York City since 2000, according to numerous news articles. I wanted to show any differences between the two years for such items as average duration of ride and popularity of start and end stations. 
 
-I also designed two dashboards for the thephenomena. However, there are no definitive reasons for the differences as shown by this data. 
+I also designed two dashboards for the the phenomena. However, there are no definitive reasons for the differences as shown by this data. 
 Included in the visualizations is a static map that plots bike stations with a visual indication of the most popular locations to end a journey with zip code data overlaid on top.
 
 Finally, I created a Tableau story that brings together the visualizations, requested maps, and dashboards.
