@@ -5,8 +5,8 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 Task:
 
-The main task is to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
-Design 2-5 visualizations for each discovered phenomena (4-10 total). 
+The main task was to aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
+It was required to design 2-5 visualizations for each discovered phenomena (4-10 total). 
 
 I did an analysis comparing 2018 and 2019. The reason for this is that there were 2 "events" in 2019 that may have affected ridership compared to 2018.
 These first was that July 2019 was, according to noaa.gov, the hottest month ever recorded on our planet. The second event was that 2019 was the deadliest 
