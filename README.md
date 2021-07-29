@@ -15,7 +15,7 @@ year for bike-riding in New York City since 2000, according to numerous news art
 I also designed two dashboards for the the phenomena. However, there are no definitive reasons for the differences as shown by this data. 
 Included in the visualizations is a static map that plots bike stations with a visual indication of the most popular locations to end a journey with zip code data overlaid on top.
 
-Finally, I created a Tableau story that brings together the visualizations, requested maps, and dashboards.
+Finally, I created a [I'm an inline-style link](https://public.tableau.com/app/profile/jennifer.duffy/viz/CitiBike-2018-2019-Analysis/basicmap)Tableau story that brings together the visualizations, requested maps, and dashboards.
 
 
 
